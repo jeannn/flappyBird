@@ -14,26 +14,13 @@ The game features scoring, collision detection, and a simple game-over system.
 
 ### Dependencies
 
-Before running the code, make sure you have:
+You can play the game directly without any dependencies
+
+but if you want to have a look at the code make sure you have:
 
 Unity Hub
 Visual Studio or VS Code (for C# script editing)
 Works on Windows, macOS, and Linux
-
-### Installing
-
-git remote add origin https://github.com/jeannn/flappyBird.git
-
-#### To view or modify the code:
-
-Clone this repository
-
-Open the folder in Unity Hub
-
-Click Open Project
-
-Wait for Unity to import all assets.
-
 
 #### To play the game directly:
 
@@ -42,6 +29,17 @@ download the flappyBird folder
 Run the executable file: flapy blorb.exe 
 
 enjoy the game
+
+#### To view or modify the code:
+
+Clone this repository https://github.com/jeannn/flappyBird.git
+
+Open the folder in Unity Hub
+
+Click Open Project
+
+Wait for Unity to import all assets.
+
 
 ### How to play:
 Spacebar → make the bird flap
