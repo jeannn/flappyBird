@@ -16,11 +16,6 @@ The game features scoring, collision detection, and a simple game-over system.
 
 You can play the game directly without any dependencies
 
-but if you want to have a look at the code make sure you have:
-
-Unity Hub
-Visual Studio or VS Code (for C# script editing)
-Works on Windows, macOS, and Linux
 
 #### To play the game directly:
 
@@ -29,16 +24,6 @@ download the flappyBird folder
 Run the executable file: flapy blorb.exe 
 
 enjoy the game
-
-#### To view or modify the code:
-
-Clone this repository  git clone https://github.com/jeannn/flappyBird.git
-
-Open the folder in Unity Hub
-
-Click Open Project
-
-Wait for Unity to import all assets.
 
 
 ### How to play:
@@ -70,9 +55,6 @@ Contributors: Jean Marcel
 
 * Initial Release
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
