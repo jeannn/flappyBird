@@ -32,7 +32,7 @@ enjoy the game
 
 #### To view or modify the code:
 
-Clone this repository https://github.com/jeannn/flappyBird.git
+Clone this repository  git clone https://github.com/jeannn/flappyBird.git
 
 Open the folder in Unity Hub
 
