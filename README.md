@@ -1,6 +1,7 @@
 # Flappy Bird
 
 A mini-game inspired by the classic Flappy Bird, built with Unity.
+
 Your goal: make the bird fly as far as possible without hitting any pipes!
 
 ## Description
