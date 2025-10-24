@@ -43,8 +43,11 @@ Click the Play button in Unity
 
 ## Help
 
-Bird doesn’t move?
-Make sure the Rigidbody2D component is attached to the bird.
+Game not launching?
+Make sure you’ve downloaded the entire project and that all files are kept together in the same folder.
+
+Can’t exit the game?
+Press the Windows key, then manually close the game window.
 
 ## Authors
 
